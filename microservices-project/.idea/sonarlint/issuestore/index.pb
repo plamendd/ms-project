@@ -1,7 +1,7 @@
 
-É
-Sinventory-service/src/main/java/com/msproject/inventoryservice/model/Inventory.java,a/7/a7942ddad032bc4046f0e44a0ef642accfa949e0
-â
-Yinventory-service/src/main/java/com/msproject/inventoryservice/dto/InventoryResponse.java,8/0/802f47dbe09bbb76fa5ae72dcc1a020fbcd6219e
-í
-binventory-service/src/main/java/com/msproject/inventoryservice/controller/InventoryController.java,9/b/9beb1b974e5f93204e7750e630ce1f214e3ce5c8
+Å
+Qorder-service/src/main/java/com/msproject/orderservice/dto/InventoryResponse.java,8/9/890de79f674a80e6485fd7916049279f96ab6244
+|
+Lorder-service/src/main/java/com/msproject/orderservice/dto/OrderRequest.java,8/0/80ea09d0fae7530404a0a954c52e763dd1efe288
+Å
+Qorder-service/src/main/java/com/msproject/orderservice/dto/OrderLineItemsDto.java,f/7/f7dce371e10a6806f0fde251f16d4a83374df8b6
